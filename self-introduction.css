@@ -1,0 +1,65 @@
+body{
+	background-color: #FFDBC9;
+}
+
+
+ h1{
+	color: #FF99FF
+}
+
+h2{
+	color:#FF9999
+	}
+h4{
+	color: #FF367F
+}
+
+.megumi{
+width: 300px;
+height: 300px;
+}
+
+.footsul{
+width:  300px;
+height: 300px;
+}
+
+
+.border{
+  border:2px solid #FF4F02;
+  background-color: #FFFFCC; /*背景色*/
+  border-radius: 20px; /*角の丸み*/
+}
+
+.border2{
+  border:2px solid #FF4F02;
+  background-color: #FFFFCC; /*背景色*/
+  border-radius: 20px;
+}
+
+
+.volleyball{
+width: 300px;
+height: 300px;
+}
+
+.surfin{
+width: 300px;
+height: 300px;
+}
+
+.abogado{
+width: 300px;
+height: 300px;
+}
+
+.cheese{
+width: 300px;
+height: 300px;
+}
+
+.nasu{
+width: 300px;
+height: 300px;
+}
+
